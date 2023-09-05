@@ -1,0 +1,77 @@
+html {
+    box-sizing: border-box;
+    font: 112.5%/1.45em georgia,serif;
+}
+
+
+#nome {
+    font-size: 80px;   
+
+}
+
+
+body {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif ;
+    text-align: center;
+    line-height: 1.43;
+    margin: 0;
+    padding: 0;   
+    word-wrap: break-word;
+    font-kerning: normal;
+    font-weight: 400;
+   
+}
+
+header {
+    background-color: #0b1e2a;
+    color: white;
+    text-align: right;
+    padding: 2em 0;
+    font-size: 15px;
+}
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    background-color: #f1f1f1;
+  }
+
+  li{float: right;
+}
+
+  li a {
+    display: block;
+    color: white;
+    padding: 8px 16px;
+    text-decoration: none;
+    
+  
+  }
+  
+  li a:hover {
+    background-color: #1840ce;
+    color: white;
+  }
+   
+
+.container {
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 2em;
+
+}
+.projeto {
+    border: 1px solid #ccc;
+    padding: 1em;
+    margin-bottom: 1em;   
+   
+}
+
+footer {
+    background-color: #0b1e2a;
+    color: white;
+    text-align: center;
+    font-size: 1em;
+    padding: 5px;   
+
+}
